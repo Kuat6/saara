@@ -1,0 +1,1248 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="saraa.origamikz.com" resolutions="1x" timestamp="1555522501775">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_demo-neg.css" crc="296196737" ref="homepage-neg"/>
+    <file name="master_______-a-white.css" crc="246598591" ref="works:furniture---artwoks:artmaster:office-white:showplace"/>
+    <file name="master_demo.css" crc="4181788638" ref="homepage-white"/>
+    <file name="master_______-a-neg.css" crc="302291538" ref="office_neg:woody_neg-1:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg"/>
+    <file name="homepage-white.css" crc="3955929272" ref="homepage-white"/>
+    <file name="office_neg.css" crc="142944537" ref="office_neg"/>
+    <file name="works.css" crc="4290343627" ref="works"/>
+    <file name="furniture---artwoks.css" crc="450377726" ref="furniture---artwoks"/>
+    <file name="artmaster.css" crc="4264288078" ref="artmaster"/>
+    <file name="office-white.css" crc="406387834" ref="office-white"/>
+    <file name="woody_neg-1.css" crc="3807991296" ref="woody_neg-1"/>
+    <file name="woody_white1.css" crc="4155003278" ref="woody_white1"/>
+    <file name="showplace.css" crc="3892054673" ref="showplace"/>
+    <file name="index.css" crc="479153212" ref="index"/>
+    <file name="gate-neg.css" crc="35871665" ref="gate-neg"/>
+    <file name="homepage-neg.css" crc="3904923039" ref="homepage-neg"/>
+    <file name="works-_neg.css" crc="398031292" ref="works-_neg"/>
+    <file name="furniture_artwoks_neg.css" crc="245293943" ref="furniture_artwoks_neg"/>
+    <file name="artmaster-neg.css" crc="4149447772" ref="artmaster-neg"/>
+    <file name="gate-white.css" crc="422567972" ref="gate-white"/>
+    <file name="showplace-neg.css" crc="4179826881" ref="showplace-neg"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home-c(white):phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>gate2-black:tablet>home-tab2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):gate-white:homepage-white:works:furniture---artwoks:artmaster:showplace:woody_white1:woody_neg-1:office-white:index:gate-neg:homepage-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>home-c(white):phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>gate2-black:tablet>home-tab2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):gate-white:homepage-white:works:furniture---artwoks:artmaster:showplace:woody_white1:woody_neg-1:office-white:index:gate-neg:homepage-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home-c(white):phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>gate2-black:tablet>home-tab2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):gate-white:homepage-white:works:furniture---artwoks:artmaster:showplace:woody_white1:woody_neg-1:office-white:index:gate-neg:homepage-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>home-c(white):phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>gate2-black:tablet>home-tab2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):gate-white:homepage-white:works:furniture---artwoks:artmaster:showplace:woody_white1:woody_neg-1:office-white:index:gate-neg:homepage-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>home-c(white):phone>office-c0:phone>works_c-white:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>woody_white-2:tablet>gate2-black:tablet>home-tab2-black:tablet>works-(black):tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:gate-white:homepage-white:works:artmaster:showplace:woody_white1:woody_neg-1:index:gate-neg:homepage-neg:works-_neg:artmaster-neg:showplace-neg"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>gate2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):gate-white:works:furniture---artwoks:artmaster:showplace:woody_white1:woody_neg-1:index:gate-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>office-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>woody_white-2:tablet>gate2-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:gate-white:artmaster:showplace:woody_white1:woody_neg-1:index:gate-neg:artmaster-neg:showplace-neg"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>office-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>woody_white-2:tablet>gate2-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:gate-white:artmaster:showplace:woody_white1:woody_neg-1:index:gate-neg:artmaster-neg:showplace-neg"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>office-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>woody_white-2:tablet>gate2-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:gate-white:artmaster:showplace:woody_white1:woody_neg-1:index:gate-neg:artmaster-neg:showplace-neg"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>home-c(white):phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>gate2-black:tablet>home-tab2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):gate-white:homepage-white:works:furniture---artwoks:artmaster:showplace:woody_white1:woody_neg-1:office-white:index:gate-neg:homepage-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>home-c(white):phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>gate2-black:tablet>home-tab2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):gate-white:homepage-white:works:furniture---artwoks:artmaster:showplace:woody_white1:woody_neg-1:office-white:index:gate-neg:homepage-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>home-c(white):phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>home-tab2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):homepage-white:works:furniture---artwoks:artmaster:showplace:woody_neg-1:office-white:homepage-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>home-c(white):phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>index:tablet>gate1-white:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>gate2-black:tablet>home-tab2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):gate-white:homepage-white:works:furniture---artwoks:artmaster:showplace:woody_white1:woody_neg-1:office-white:index:gate-neg:homepage-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>office-(black):works:furniture---artwoks:artmaster:showplace:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>showplace-desc-white-c0"/>
+    <file name="form_check.php" crc="4020933626" ref="tablet>woody_white-2"/>
+    <file name="form_throttle.php" crc="4259590256" ref="tablet>woody_white-2"/>
+    <file name="form_process.php" crc="37464564" ref="tablet>woody_white-2"/>
+    <file name="form-u14614.php" crc="3846841844" ref="tablet>woody_white-2"/>
+    <file name="form-u17543.php" crc="3884302858" ref="tablet>woody_black-2"/>
+    <file name="form-u3676.php" crc="3920726675" ref="woody_white1"/>
+    <file name="form-u4411.php" crc="4275775897" ref="woody_neg-1"/>
+  </folder>
+  <folder name="images">
+    <file name="вход-на-сайт_03-u22899-fr.jpg" crc="253164875" ref="phone>index"/>
+    <file name="вход-на-сайт_04-u22910-fr.jpg" crc="67609069" ref="phone>index"/>
+    <file name="вход-на-сайт_05-u22942-fr.jpg" crc="518980069" ref="phone>index"/>
+    <file name="вход-на-сайт_06-u22917-fr.jpg" crc="4059123373" ref="phone>index"/>
+    <file name="u22935-7.png" crc="36759135" ref="phone>index"/>
+    <file name="u23044-4.png" crc="138792744" ref="phone>home-c(white)"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>home-c(white):phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:tablet>home-tab-white:tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>home-tab2-black:tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black):homepage-white:works:furniture---artwoks:artmaster:showplace:woody_white1:woody_neg-1:office-white:homepage-neg:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="u23050.png" crc="4212296731" ref="phone>home-c(white)"/>
+    <file name="u23050-r.png" crc="462050869" ref="phone>home-c(white)"/>
+    <file name="u23050-a.png" crc="462050869" ref="phone>home-c(white)"/>
+    <file name="u23057.png" crc="4219928985" ref="phone>home-c(white)"/>
+    <file name="u23057-r.png" crc="91211883" ref="phone>home-c(white)"/>
+    <file name="u23057-a.png" crc="91211883" ref="phone>home-c(white)"/>
+    <file name="u23066.png" crc="404343553" ref="phone>home-c(white)"/>
+    <file name="u23066-r.png" crc="126974662" ref="phone>home-c(white)"/>
+    <file name="u23066-a.png" crc="126974662" ref="phone>home-c(white)"/>
+    <file name="u23067-4.png" crc="4142430750" ref="phone>home-c(white)"/>
+    <file name="posh760x428.jpg" crc="4256005334" ref="phone>home-c(white)">
+      <caption webpage="home-c(white)" alt=""/>
+    </file>
+    <file name="u23477-4.png" crc="132816436" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23482.png" crc="4232422297" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23482-r.png" crc="462050869" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23482-a.png" crc="462050869" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23492.png" crc="143007232" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23492-r.png" crc="91211883" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23492-a.png" crc="91211883" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23495.png" crc="3927943093" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23495-r.png" crc="126974662" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23495-a.png" crc="126974662" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u23544.png" crc="3937847308" ref="phone>office-c0"/>
+    <file name="u23544-r.png" crc="3862703027" ref="phone>office-c0"/>
+    <file name="u23544-a.png" crc="4029861649" ref="phone>office-c0"/>
+    <file name="u23530.png" crc="444081443" ref="phone>office-c0"/>
+    <file name="u23530-r.png" crc="386602912" ref="phone>office-c0"/>
+    <file name="u23530-a.png" crc="119694393" ref="phone>office-c0"/>
+    <file name="u23553.png" crc="240032494" ref="phone>office-c0"/>
+    <file name="u23553-r.png" crc="4145855408" ref="phone>office-c0"/>
+    <file name="u23553-a.png" crc="108761527" ref="phone>office-c0"/>
+    <file name="u23560.png" crc="4224417615" ref="phone>office-c0"/>
+    <file name="u23560-r.png" crc="4277028125" ref="phone>office-c0"/>
+    <file name="u23560-a.png" crc="508451356" ref="phone>office-c0"/>
+    <file name="u23565.png" crc="4092746936" ref="phone>office-c0"/>
+    <file name="u23565-r.png" crc="3996947625" ref="phone>office-c0"/>
+    <file name="u23565-a.png" crc="3919279314" ref="phone>office-c0"/>
+    <file name="u23537.png" crc="403047187" ref="phone>office-c0"/>
+    <file name="u23537-r.png" crc="4224670954" ref="phone>office-c0"/>
+    <file name="u23537-a.png" crc="116573547" ref="phone>office-c0"/>
+    <file name="icons8-миниатюры-filled-50.png" crc="3919195153" ref="phone>office-c0">
+      <caption webpage="office-c0" alt=""/>
+    </file>
+    <file name="icons8-удалить-100-u23693-a-fr.png" crc="4213248195" ref="phone>office-c0"/>
+    <file name="14434841_1179840825390738_7571494432246179220_o370x229.jpg" crc="257803481" seo="true" ref="phone>office-c0">
+      <caption webpage="office-c0" alt=""/>
+    </file>
+    <file name="u23570-8.png" crc="217144820" ref="phone>office-c0"/>
+    <file name="u23571-6.png" crc="3786402837" ref="phone>office-c0"/>
+    <file name="u23500-4.png" crc="354803497" ref="phone>office-c0:phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0"/>
+    <file name="u24064.png" crc="4096853556" ref="phone>works_c-white"/>
+    <file name="u24064-r.png" crc="3779034280" ref="phone>works_c-white"/>
+    <file name="u24064-a.png" crc="4116392375" ref="phone>works_c-white"/>
+    <file name="artmaster_neg-u24056-fr.jpg" crc="479166460" ref="phone>works_c-white"/>
+    <file name="artmaster_act-u24056-r-fr.jpg" crc="3918148308" ref="phone>works_c-white"/>
+    <file name="u24054-6.png" crc="4229760645" ref="phone>works_c-white"/>
+    <file name="u24055-6.png" crc="3903999724" ref="phone>works_c-white"/>
+    <file name="showplace_neg-u24063-fr.jpg" crc="4139610561" ref="phone>works_c-white"/>
+    <file name="showplace_act-u24063-r-fr.jpg" crc="340896976" ref="phone>works_c-white"/>
+    <file name="u24062_states.png" crc="528691367" ref="phone>works_c-white"/>
+    <file name="u24062_states-r.png" crc="3977100928" ref="phone>works_c-white"/>
+    <file name="u24061-6.png" crc="145173774" ref="phone>works_c-white"/>
+    <file name="mebels_neg-u24058-fr.jpg" crc="535961509" ref="phone>works_c-white"/>
+    <file name="mebels_act-u24058-r-fr.jpg" crc="113020448" ref="phone>works_c-white"/>
+    <file name="u24059_states.png" crc="456414256" ref="phone>works_c-white"/>
+    <file name="u24059_states-r.png" crc="3798205995" ref="phone>works_c-white"/>
+    <file name="u24048.png" crc="51787264" ref="phone>works_c-white"/>
+    <file name="u24048-r.png" crc="4076547158" ref="phone>works_c-white"/>
+    <file name="u24048-a.png" crc="4209457812" ref="phone>works_c-white"/>
+    <file name="u24103.png" crc="3927252022" ref="phone>works_c-white"/>
+    <file name="u24103-r.png" crc="417391581" ref="phone>works_c-white"/>
+    <file name="u24103-a.png" crc="4127481914" ref="phone>works_c-white"/>
+    <file name="u25731-6.png" crc="4229760645" ref="phone>works_c-white"/>
+    <file name="u25730-6.png" crc="3903999724" ref="phone>works_c-white"/>
+    <file name="u25712_states.png" crc="528691367" ref="phone>works_c-white"/>
+    <file name="u25712_states-r.png" crc="3977100928" ref="phone>works_c-white"/>
+    <file name="u25713-6.png" crc="145173774" ref="phone>works_c-white"/>
+    <file name="u24066.png" crc="3791060544" ref="phone>works_c-white"/>
+    <file name="u24066-r.png" crc="233944515" ref="phone>works_c-white"/>
+    <file name="u24066-a.png" crc="3818680785" ref="phone>works_c-white"/>
+    <file name="u25676-6.png" crc="4229760645" ref="phone>works_c-white"/>
+    <file name="u25677-6.png" crc="3903999724" ref="phone>works_c-white"/>
+    <file name="u25697_states.png" crc="528691367" ref="phone>works_c-white"/>
+    <file name="u25697_states-r.png" crc="3977100928" ref="phone>works_c-white"/>
+    <file name="u25695-6.png" crc="145173774" ref="phone>works_c-white"/>
+    <file name="u24111.png" crc="4268423591" ref="phone>works_c-white"/>
+    <file name="u24111-r.png" crc="65117559" ref="phone>works_c-white"/>
+    <file name="u24111-a.png" crc="256872851" ref="phone>works_c-white"/>
+    <file name="u24081.png" crc="251452867" ref="phone>works_c-white"/>
+    <file name="u24081-r.png" crc="3875125256" ref="phone>works_c-white"/>
+    <file name="u24081-a.png" crc="3809452456" ref="phone>works_c-white"/>
+    <file name="u24105.png" crc="163466758" ref="phone>works_c-white"/>
+    <file name="u24105-r.png" crc="4215700224" ref="phone>works_c-white"/>
+    <file name="u24105-a.png" crc="3875497606" ref="phone>works_c-white"/>
+    <file name="u24046.png" crc="46886058" ref="phone>works_c-white"/>
+    <file name="u24046-r.png" crc="3959230789" ref="phone>works_c-white"/>
+    <file name="u24046-a.png" crc="3974308436" ref="phone>works_c-white"/>
+    <file name="u24085.png" crc="3861671656" ref="phone>works_c-white"/>
+    <file name="u24085-r.png" crc="185140232" ref="phone>works_c-white"/>
+    <file name="u24085-a.png" crc="93807045" ref="phone>works_c-white"/>
+    <file name="u24078.png" crc="322198644" ref="phone>works_c-white"/>
+    <file name="u24078-r.png" crc="3771804212" ref="phone>works_c-white"/>
+    <file name="u24078-a.png" crc="4256824682" ref="phone>works_c-white"/>
+    <file name="u24087.png" crc="273458721" ref="phone>works_c-white"/>
+    <file name="u24087-r.png" crc="509065184" ref="phone>works_c-white"/>
+    <file name="u24087-a.png" crc="194051703" ref="phone>works_c-white"/>
+    <file name="mebels_neg-u24090-fr.jpg" crc="4267712335" ref="phone>works_c-white:tablet>works:tablet>works-(black)"/>
+    <file name="mebels_act-u24090-r-fr.jpg" crc="4209127044" ref="phone>works_c-white:tablet>works:tablet>works-(black)"/>
+    <file name="u24091.png" crc="3917797942" ref="phone>works_c-white"/>
+    <file name="u24091-r.png" crc="3795893120" ref="phone>works_c-white"/>
+    <file name="u24108.png" crc="533924006" ref="phone>works_c-white"/>
+    <file name="u24108-r.png" crc="4069656268" ref="phone>works_c-white"/>
+    <file name="u24108-a.png" crc="521498164" ref="phone>works_c-white"/>
+    <file name="u24431.png" crc="372596988" ref="phone>furniture-c0"/>
+    <file name="u24431-r.png" crc="4099507036" ref="phone>furniture-c0"/>
+    <file name="u24431-a.png" crc="3920741844" ref="phone>furniture-c0"/>
+    <file name="h_bea-lema-1.jpg" crc="4037784442" seo="true" ref="phone>furniture-c0:tablet>furniture---artwoks:tablet>furniture---artwoks-black:furniture---artwoks:furniture_artwoks_neg">
+      <caption webpage="furniture---artwoks" alt=""/>
+      <caption webpage="furniture---artwoks" alt=""/>
+      <caption webpage="furniture-c0" alt=""/>
+      <caption webpage="furniture_artwoks_neg" alt=""/>
+      <caption webpage="furniture---artwoks-black" alt=""/>
+    </file>
+    <file name="u24422-6.png" crc="49797907" ref="phone>furniture-c0"/>
+    <file name="h_woody-chair-molteni-c-2.jpg" crc="4151281781" seo="true" ref="phone>furniture-c0:tablet>furniture---artwoks:tablet>furniture---artwoks-black:furniture---artwoks:furniture_artwoks_neg">
+      <caption webpage="furniture---artwoks" alt=""/>
+      <caption webpage="furniture---artwoks" alt=""/>
+      <caption webpage="furniture-c0" alt=""/>
+      <caption webpage="furniture_artwoks_neg" alt=""/>
+      <caption webpage="furniture---artwoks-black" alt=""/>
+    </file>
+    <file name="u24413-6.png" crc="4158941557" ref="phone>furniture-c0"/>
+    <file name="b_leda-chair-flexform.jpg" crc="4294918270" seo="true" ref="phone>furniture-c0:tablet>furniture---artwoks:tablet>furniture---artwoks-black:furniture---artwoks:furniture_artwoks_neg">
+      <caption webpage="furniture---artwoks" alt=""/>
+      <caption webpage="furniture---artwoks" alt=""/>
+      <caption webpage="furniture-c0" alt=""/>
+      <caption webpage="furniture_artwoks_neg" alt=""/>
+      <caption webpage="furniture---artwoks-black" alt=""/>
+    </file>
+    <file name="u24408-6.png" crc="3932717917" ref="phone>furniture-c0"/>
+    <file name="b_cila-go-office-stool.jpg" crc="3764057226" seo="true" ref="phone>furniture-c0:tablet>furniture---artwoks:tablet>furniture---artwoks-black:furniture---artwoks:furniture_artwoks_neg">
+      <caption webpage="furniture---artwoks" alt=""/>
+      <caption webpage="furniture---artwoks" alt=""/>
+      <caption webpage="furniture-c0" alt=""/>
+      <caption webpage="furniture_artwoks_neg" alt=""/>
+      <caption webpage="furniture---artwoks-black" alt=""/>
+    </file>
+    <file name="u24430-6.png" crc="242263915" ref="phone>furniture-c0"/>
+    <file name="u24394.png" crc="4254344581" ref="phone>furniture-c0"/>
+    <file name="u24394-r.png" crc="4135384944" ref="phone>furniture-c0"/>
+    <file name="u24394-a.png" crc="4117872788" ref="phone>furniture-c0"/>
+    <file name="u24399.png" crc="3850079166" ref="phone>furniture-c0"/>
+    <file name="u24399-r.png" crc="347894658" ref="phone>furniture-c0"/>
+    <file name="u24399-a.png" crc="4126051474" ref="phone>furniture-c0"/>
+    <file name="u24396.png" crc="148991675" ref="phone>furniture-c0"/>
+    <file name="u24396-r.png" crc="482417696" ref="phone>furniture-c0"/>
+    <file name="u24396-a.png" crc="184431209" ref="phone>furniture-c0"/>
+    <file name="u24402.png" crc="414303216" ref="phone>furniture-c0"/>
+    <file name="u24402-r.png" crc="228885189" ref="phone>furniture-c0"/>
+    <file name="u24402-a.png" crc="415547676" ref="phone>furniture-c0"/>
+    <file name="u24388.png" crc="304274822" ref="phone>furniture-c0"/>
+    <file name="u24388-r.png" crc="4194649182" ref="phone>furniture-c0"/>
+    <file name="u24388-a.png" crc="362815053" ref="phone>furniture-c0"/>
+    <file name="u24391.png" crc="3940387603" ref="phone>furniture-c0"/>
+    <file name="u24391-r.png" crc="4135229626" ref="phone>furniture-c0"/>
+    <file name="u24391-a.png" crc="400436300" ref="phone>furniture-c0"/>
+    <file name="u24433.png" crc="3933999204" ref="phone>furniture-c0"/>
+    <file name="u24433-r.png" crc="4079811286" ref="phone>furniture-c0"/>
+    <file name="u24433-a.png" crc="4109537249" ref="phone>furniture-c0"/>
+    <file name="1-neg1-u24684-fr.jpg" crc="320368280" ref="phone>artmaster-description-c0"/>
+    <file name="1-u24684-r-fr.jpg" crc="258599878" ref="phone>artmaster-description-c0"/>
+    <file name="1-neg2-u24687-fr.jpg" crc="3953253384" ref="phone>artmaster-description-c0"/>
+    <file name="2-u24687-r-fr.jpg" crc="4092541647" ref="phone>artmaster-description-c0"/>
+    <file name="1-neg3-u24685-fr.jpg" crc="4166438925" ref="phone>artmaster-description-c0"/>
+    <file name="3-u24685-r-fr.jpg" crc="255903124" ref="phone>artmaster-description-c0"/>
+    <file name="1-neg4-u24686-fr.jpg" crc="388078355" ref="phone>artmaster-description-c0"/>
+    <file name="4-u24686-r-fr.jpg" crc="378014089" ref="phone>artmaster-description-c0"/>
+    <file name="1-neg5-u24688-fr.jpg" crc="509329783" ref="phone>artmaster-description-c0"/>
+    <file name="5-u24688-r-fr.jpg" crc="3886853515" ref="phone>artmaster-description-c0"/>
+    <file name="1-u24678-fr.jpg" crc="3928917670" ref="phone>artmaster-description-c0"/>
+    <file name="2-u24680-fr.jpg" crc="69220204" ref="phone>artmaster-description-c0"/>
+    <file name="3-u24677-fr.jpg" crc="3910614056" ref="phone>artmaster-description-c0"/>
+    <file name="4-u24679-fr.jpg" crc="3971598119" ref="phone>artmaster-description-c0"/>
+    <file name="5-u24676-fr.jpg" crc="103235425" ref="phone>artmaster-description-c0"/>
+    <file name="u24689-6.png" crc="291383220" ref="phone>artmaster-description-c0"/>
+    <file name="u24690-15.png" crc="401119074" ref="phone>artmaster-description-c0"/>
+    <file name="u24692-15.png" crc="3988778377" ref="phone>artmaster-description-c0"/>
+    <file name="u24691-10.png" crc="4135139023" ref="phone>artmaster-description-c0"/>
+    <file name="u24693-10.png" crc="4139260509" ref="phone>artmaster-description-c0"/>
+    <file name="u24698.png" crc="4104562673" ref="phone>artmaster-description-c0"/>
+    <file name="u24698-a.png" crc="4104562673" ref="phone>artmaster-description-c0"/>
+    <file name="u24697-7.png" crc="493405028" ref="phone>artmaster-description-c0"/>
+    <file name="1neg1-u25039-fr.jpg" crc="4217248266" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="01-u25039-r-fr.jpg" crc="61137766" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg2-u25036-fr.jpg" crc="26762724" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="02 - masterplan-u25036-a-fr.jpg" crc="4219529399" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg3.jpg" crc="4065079436" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black:showplace:showplace-neg">
+      <caption webpage="showplace-tab-black" alt=""/>
+      <caption webpage="showplace-neg" alt=""/>
+      <caption webpage="showplace-tabwhite" alt=""/>
+      <caption webpage="showplace" alt=""/>
+      <caption webpage="showplace-desc-white-c0" alt=""/>
+      <caption webpage="showplace-desc-white-c0" alt=""/>
+    </file>
+    <file name="03 - zoning and circulation diagram-u25037-r-fr.jpg" crc="4096171654" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg4-u25034-fr.jpg" crc="117664484" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="04 - ground floor-u25034-r-fr.jpg" crc="100291182" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg5-u25031-fr.jpg" crc="116741195" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="05 - second floor-u25031-r-fr.jpg" crc="4191845544" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg6-u25038-fr.jpg" crc="315298067" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="06 - from level 3 to terrace level-u25038-r-fr.jpg" crc="41464506" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg7-u25029-fr.jpg" crc="4120822984" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="07 - roof-u25029-r-fr.jpg" crc="4246799892" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg8-u25030-fr.jpg" crc="3989439634" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="08-u25030-r-fr.jpg" crc="412808810" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg9-u25035-fr.jpg" crc="514580529" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="09-u25035-r-fr.jpg" crc="479923446" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg10-u25032-fr.jpg" crc="3840966092" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="10-u25032-r-fr.jpg" crc="352964416" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="1neg11-u25033-fr.jpg" crc="4072947746" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="11-u25033-m-fr.jpg" crc="4144174612" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="01-u25024-fr.jpg" crc="3803807642" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="02 - masterplan-u25019-fr.jpg" crc="3916275026" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="03 - zoning and circulation diagram-u25023-fr.jpg" crc="4066751897" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="04 - ground floor-u25021-fr.jpg" crc="478710427" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="05 - second floor-u25016-fr.jpg" crc="4275403349" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="06 - from level 3 to terrace level-u25020-fr.jpg" crc="336586182" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="07 - roof-u25017-fr.jpg" crc="51391884" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="08-u25025-fr.jpg" crc="4256489035" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="09-u25022-fr.jpg" crc="4014151881" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="10-u25015-fr.jpg" crc="94177011" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="11-u25018-fr.jpg" crc="3883823473" ref="phone>showplace-desc-white-c0:tablet>showplace-tabwhite:tablet>showplace-tab-black"/>
+    <file name="u25003-6.png" crc="524246554" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25004-15.png" crc="4112244583" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25006-16.png" crc="136205645" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25005-10.png" crc="3886450124" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25007-10.png" crc="146400497" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25010-4.png" crc="388606116" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25012-6.png" crc="3989998321" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg1-u25039-fr2.jpg" crc="135040320" ref="phone>showplace-desc-white-c0"/>
+    <file name="01-u25039-r-fr2.jpg" crc="3909629161" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg2-u25036-fr2.jpg" crc="505793412" ref="phone>showplace-desc-white-c0"/>
+    <file name="02 - masterplan-u25036-a-fr2.jpg" crc="114400126" ref="phone>showplace-desc-white-c0"/>
+    <file name="03 - zoning and circulation diagram-u25037-r-fr2.jpg" crc="471559239" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg4-u25034-fr2.jpg" crc="400158118" ref="phone>showplace-desc-white-c0"/>
+    <file name="04 - ground floor-u25034-r-fr2.jpg" crc="69828218" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg5-u25031-fr2.jpg" crc="4187480409" ref="phone>showplace-desc-white-c0"/>
+    <file name="05 - second floor-u25031-r-fr2.jpg" crc="51441594" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg6-u25038-fr2.jpg" crc="180985489" ref="phone>showplace-desc-white-c0"/>
+    <file name="06 - from level 3 to terrace level-u25038-r-fr2.jpg" crc="531599131" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg7-u25029-fr2.jpg" crc="331871187" ref="phone>showplace-desc-white-c0"/>
+    <file name="07 - roof-u25029-r-fr2.jpg" crc="3759088607" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg8-u25030-fr2.jpg" crc="4086058272" ref="phone>showplace-desc-white-c0"/>
+    <file name="08-u25030-r-fr2.jpg" crc="535261451" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg9-u25035-fr2.jpg" crc="29613403" ref="phone>showplace-desc-white-c0"/>
+    <file name="09-u25035-r-fr2.jpg" crc="4127652827" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg10-u25032-fr2.jpg" crc="62811360" ref="phone>showplace-desc-white-c0"/>
+    <file name="10-u25032-r-fr2.jpg" crc="4106689351" ref="phone>showplace-desc-white-c0"/>
+    <file name="1neg11-u25033-fr2.jpg" crc="522163848" ref="phone>showplace-desc-white-c0"/>
+    <file name="11-u25033-m-fr2.jpg" crc="4238688156" ref="phone>showplace-desc-white-c0"/>
+    <file name="01-u25024-fr2.jpg" crc="3969962780" ref="phone>showplace-desc-white-c0"/>
+    <file name="02 - masterplan-u25019-fr2.jpg" crc="444285963" ref="phone>showplace-desc-white-c0"/>
+    <file name="03 - zoning and circulation diagram-u25023-fr2.jpg" crc="4162621414" ref="phone>showplace-desc-white-c0"/>
+    <file name="04 - ground floor-u25021-fr2.jpg" crc="4180815839" ref="phone>showplace-desc-white-c0"/>
+    <file name="05 - second floor-u25016-fr2.jpg" crc="4259409140" ref="phone>showplace-desc-white-c0"/>
+    <file name="06 - from level 3 to terrace level-u25020-fr2.jpg" crc="4202346698" ref="phone>showplace-desc-white-c0"/>
+    <file name="07 - roof-u25017-fr2.jpg" crc="3822918860" ref="phone>showplace-desc-white-c0"/>
+    <file name="08-u25025-fr2.jpg" crc="4127192932" ref="phone>showplace-desc-white-c0"/>
+    <file name="09-u25022-fr2.jpg" crc="3970303122" ref="phone>showplace-desc-white-c0"/>
+    <file name="10-u25015-fr2.jpg" crc="3771476534" ref="phone>showplace-desc-white-c0"/>
+    <file name="11-u25018-fr2.jpg" crc="357711880" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25003-62.png" crc="181757702" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25004-152.png" crc="4066547004" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25006-162.png" crc="404413798" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25005-102.png" crc="4188801308" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25007-102.png" crc="4110946545" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25010-42.png" crc="4092111444" ref="phone>showplace-desc-white-c0"/>
+    <file name="u25012-62.png" crc="4238781537" ref="phone>showplace-desc-white-c0"/>
+    <file name="вход-на-сайт_03.jpg" crc="529979917" ref="tablet>index:tablet>gate1-white:tablet>gate2-black:gate-white:index:gate-neg">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вход-на-сайт_04.jpg" crc="236767320" ref="tablet>index:tablet>gate1-white:tablet>gate2-black:gate-white:index:gate-neg">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вход-на-сайт_05.jpg" crc="446629362" ref="tablet>index:tablet>gate1-white:tablet>gate2-black:gate-white:index:gate-neg">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вход-на-сайт_06.jpg" crc="3838001519" ref="tablet>index:tablet>gate1-white:tablet>gate2-black:gate-white:index:gate-neg">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вход-на-сайт_07.jpg" crc="3885753094" ref="tablet>index:tablet>gate1-white:tablet>gate2-black:gate-white:index:gate-neg">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10448-5.png" crc="413788195" ref="tablet>index"/>
+    <file name="u10438-4.png" crc="4118582964" ref="tablet>index"/>
+    <file name="u10895-5.png" crc="4032469734" ref="tablet>gate1-white"/>
+    <file name="u11245.png" crc="3997491857" ref="tablet>home-tab-white"/>
+    <file name="u11245-r.png" crc="25639490" ref="tablet>home-tab-white"/>
+    <file name="u11245-a.png" crc="25639490" ref="tablet>home-tab-white"/>
+    <file name="u11248.png" crc="320743868" ref="tablet>home-tab-white"/>
+    <file name="u11248-r.png" crc="3817697231" ref="tablet>home-tab-white"/>
+    <file name="u11248-a.png" crc="3817697231" ref="tablet>home-tab-white"/>
+    <file name="u11236.png" crc="63574653" ref="tablet>home-tab-white"/>
+    <file name="u11236-r.png" crc="5513974" ref="tablet>home-tab-white"/>
+    <file name="u11236-a.png" crc="5513974" ref="tablet>home-tab-white"/>
+    <file name="u11230-4.png" crc="3935519503" ref="tablet>home-tab-white"/>
+    <file name="posh.jpg" crc="4090854504" ref="tablet>home-tab-white:tablet>home-tab2-black:homepage-white:homepage-neg">
+      <caption webpage="home-tab-white" alt=""/>
+      <caption webpage="homepage-white" alt=""/>
+      <caption webpage="homepage-neg" alt=""/>
+      <caption webpage="home-tab2-black" alt=""/>
+    </file>
+    <file name="u11446-4.png" crc="15824518" ref="tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white"/>
+    <file name="u11452.png" crc="103951167" ref="tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white"/>
+    <file name="u11452-a.png" crc="4211753621" ref="tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white"/>
+    <file name="u11457.png" crc="4005009357" ref="tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white"/>
+    <file name="u11457-a.png" crc="4072920472" ref="tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white"/>
+    <file name="u11466.png" crc="161886814" ref="tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white"/>
+    <file name="u11466-a.png" crc="330695869" ref="tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white"/>
+    <file name="u12610.png" crc="4239534048" ref="tablet>works"/>
+    <file name="u12610-r.png" crc="154135065" ref="tablet>works"/>
+    <file name="u12610-a.png" crc="97868449" ref="tablet>works"/>
+    <file name="artmaster_neg-u12710-fr.jpg" crc="4170228323" ref="tablet>works:tablet>works-(black)"/>
+    <file name="artmaster_act-u12710-r-fr.jpg" crc="381830947" ref="tablet>works:tablet>works-(black)"/>
+    <file name="u12708-6.png" crc="74082632" ref="tablet>works"/>
+    <file name="u12709-6.png" crc="437812211" ref="tablet>works"/>
+    <file name="showplace_neg.jpg" crc="4086865697" ref="tablet>works:tablet>works-(black):works:works-_neg">
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+      <caption webpage="works-(black)" alt=""/>
+      <caption webpage="works-(black)" alt=""/>
+      <caption webpage="works-(black)" alt=""/>
+    </file>
+    <file name="showplace_act-u13484-r-fr.jpg" crc="320694395" ref="tablet>works:tablet>works-(black)"/>
+    <file name="u13485_states.png" crc="3886571167" ref="tablet>works"/>
+    <file name="u13485_states-r.png" crc="512822010" ref="tablet>works"/>
+    <file name="u13486-6.png" crc="81121002" ref="tablet>works"/>
+    <file name="u12334.png" crc="3917797942" ref="tablet>works"/>
+    <file name="u12334-r.png" crc="3795893120" ref="tablet>works"/>
+    <file name="u12646.png" crc="4148872247" ref="tablet>works"/>
+    <file name="u12646-r.png" crc="529192264" ref="tablet>works"/>
+    <file name="u12646-a.png" crc="4220944084" ref="tablet>works"/>
+    <file name="u12680.png" crc="25098354" ref="tablet>works"/>
+    <file name="u12680-r.png" crc="105611779" ref="tablet>works"/>
+    <file name="u12680-a.png" crc="246214595" ref="tablet>works"/>
+    <file name="u12728-6.png" crc="4066725844" ref="tablet>works"/>
+    <file name="u12729-6.png" crc="437812211" ref="tablet>works"/>
+    <file name="u12342_states.png" crc="3886571167" ref="tablet>works"/>
+    <file name="u12342_states-r.png" crc="512822010" ref="tablet>works"/>
+    <file name="u12341-6.png" crc="81121002" ref="tablet>works"/>
+    <file name="u12742.png" crc="4268612018" ref="tablet>works"/>
+    <file name="u12742-r.png" crc="406141632" ref="tablet>works"/>
+    <file name="u12742-a.png" crc="4245231064" ref="tablet>works"/>
+    <file name="u12306-6.png" crc="4066725844" ref="tablet>works"/>
+    <file name="u12307-6.png" crc="437812211" ref="tablet>works"/>
+    <file name="u13501_states.png" crc="3886571167" ref="tablet>works"/>
+    <file name="u13501_states-r.png" crc="512822010" ref="tablet>works"/>
+    <file name="u13502-6.png" crc="81121002" ref="tablet>works"/>
+    <file name="u12761.png" crc="4126658989" ref="tablet>works"/>
+    <file name="u12761-r.png" crc="4192773108" ref="tablet>works"/>
+    <file name="u12761-a.png" crc="3815584640" ref="tablet>works"/>
+    <file name="u12781.png" crc="361120452" ref="tablet>works"/>
+    <file name="u12781-r.png" crc="4188072996" ref="tablet>works"/>
+    <file name="u12781-a.png" crc="3769969761" ref="tablet>works"/>
+    <file name="u12790.png" crc="4282555395" ref="tablet>works"/>
+    <file name="u12790-r.png" crc="286774828" ref="tablet>works"/>
+    <file name="u12790-a.png" crc="318642957" ref="tablet>works"/>
+    <file name="u12798.png" crc="352922120" ref="tablet>works"/>
+    <file name="u12798-r.png" crc="3979020461" ref="tablet>works"/>
+    <file name="u12798-a.png" crc="277213811" ref="tablet>works"/>
+    <file name="u12807.png" crc="4170362719" ref="tablet>works"/>
+    <file name="u12807-r.png" crc="111276360" ref="tablet>works"/>
+    <file name="u12807-a.png" crc="424625154" ref="tablet>works"/>
+    <file name="u12816.png" crc="211715779" ref="tablet>works"/>
+    <file name="u12816-r.png" crc="3915361581" ref="tablet>works"/>
+    <file name="u12816-a.png" crc="3763028327" ref="tablet>works"/>
+    <file name="u12826.png" crc="230691761" ref="tablet>works"/>
+    <file name="u12826-r.png" crc="513050498" ref="tablet>works"/>
+    <file name="u12826-a.png" crc="4129735345" ref="tablet>works"/>
+    <file name="u14515.png" crc="3917797942" ref="tablet>works"/>
+    <file name="u14515-r.png" crc="3795893120" ref="tablet>works"/>
+    <file name="u12835.png" crc="285622003" ref="tablet>works"/>
+    <file name="u12835-r.png" crc="3867975430" ref="tablet>works"/>
+    <file name="u12835-a.png" crc="4112580233" ref="tablet>works"/>
+    <file name="u11515-4.png" crc="3772781928" ref="tablet>works:tablet>artmaster-white:tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white"/>
+    <file name="1-neg1.jpg" crc="4117092526" ref="tablet>artmaster-white:tablet>artmaster-black:artmaster:artmaster-neg">
+      <caption webpage="artmaster-white" alt=""/>
+      <caption webpage="artmaster" alt=""/>
+      <caption webpage="artmaster-black" alt=""/>
+      <caption webpage="artmaster-neg" alt=""/>
+    </file>
+    <file name="1-u13172-r-fr.jpg" crc="6607668" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="1-neg2.jpg" crc="239909505" ref="tablet>artmaster-white:tablet>artmaster-black:artmaster:artmaster-neg">
+      <caption webpage="artmaster-white" alt=""/>
+      <caption webpage="artmaster" alt=""/>
+      <caption webpage="artmaster-black" alt=""/>
+      <caption webpage="artmaster-neg" alt=""/>
+    </file>
+    <file name="2-u13168-r-fr.jpg" crc="242031399" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="1-neg3.jpg" crc="3874055596" ref="tablet>artmaster-white:tablet>artmaster-black:artmaster:artmaster-neg">
+      <caption webpage="artmaster-white" alt=""/>
+      <caption webpage="artmaster" alt=""/>
+      <caption webpage="artmaster-black" alt=""/>
+      <caption webpage="artmaster-neg" alt=""/>
+    </file>
+    <file name="3-u13169-r-fr.jpg" crc="4019601836" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="1-neg4.jpg" crc="4074250490" ref="tablet>artmaster-white:tablet>artmaster-black:artmaster:artmaster-neg">
+      <caption webpage="artmaster-white" alt=""/>
+      <caption webpage="artmaster" alt=""/>
+      <caption webpage="artmaster-black" alt=""/>
+      <caption webpage="artmaster-neg" alt=""/>
+    </file>
+    <file name="4-u13170-r-fr.jpg" crc="191496161" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="1-neg5.jpg" crc="216174760" ref="tablet>artmaster-white:tablet>artmaster-black:artmaster:artmaster-neg">
+      <caption webpage="artmaster-white" alt=""/>
+      <caption webpage="artmaster" alt=""/>
+      <caption webpage="artmaster-black" alt=""/>
+      <caption webpage="artmaster-neg" alt=""/>
+    </file>
+    <file name="5-u13171-r-fr.jpg" crc="315767257" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="1-u13176-fr.jpg" crc="3928940682" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="2-u13175-fr.jpg" crc="525522325" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="3-u13174-fr.jpg" crc="440571764" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="4-u13177-fr.jpg" crc="442848824" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="5-u13178-fr.jpg" crc="264053761" ref="tablet>artmaster-white:tablet>artmaster-black"/>
+    <file name="u13182-6.png" crc="3765157254" ref="tablet>artmaster-white"/>
+    <file name="u13183-14.png" crc="3878544320" ref="tablet>artmaster-white"/>
+    <file name="u13185-15.png" crc="459797098" ref="tablet>artmaster-white"/>
+    <file name="u13184-10.png" crc="529669742" ref="tablet>artmaster-white"/>
+    <file name="u13186-10.png" crc="4137034872" ref="tablet>artmaster-white"/>
+    <file name="u13191.png" crc="4176267469" ref="tablet>artmaster-white"/>
+    <file name="u13191-a.png" crc="4176267469" ref="tablet>artmaster-white"/>
+    <file name="u13190-7.png" crc="4008286685" ref="tablet>artmaster-white"/>
+    <file name="u13379-6.png" crc="419576272" ref="tablet>showplace-tabwhite"/>
+    <file name="u13380-15.png" crc="102222491" ref="tablet>showplace-tabwhite"/>
+    <file name="u13382-16.png" crc="33428289" ref="tablet>showplace-tabwhite"/>
+    <file name="u13381-10.png" crc="318806788" ref="tablet>showplace-tabwhite"/>
+    <file name="u13383-10.png" crc="109990162" ref="tablet>showplace-tabwhite"/>
+    <file name="u13388.png" crc="260758248" ref="tablet>showplace-tabwhite"/>
+    <file name="u13388-a.png" crc="3813212412" ref="tablet>showplace-tabwhite"/>
+    <file name="u14257.png" crc="344634141" ref="tablet>furniture---artwoks"/>
+    <file name="u14257-r.png" crc="3864638633" ref="tablet>furniture---artwoks"/>
+    <file name="u14257-a.png" crc="3909814341" ref="tablet>furniture---artwoks"/>
+    <file name="u13949-6.png" crc="3880250455" ref="tablet>furniture---artwoks"/>
+    <file name="u13957-6.png" crc="4042030647" ref="tablet>furniture---artwoks"/>
+    <file name="u13969-6.png" crc="103007998" ref="tablet>furniture---artwoks"/>
+    <file name="u13959-6.png" crc="416116198" ref="tablet>furniture---artwoks"/>
+    <file name="h_kage-meridian.jpg" crc="3905206194" seo="true" ref="tablet>furniture---artwoks:tablet>furniture---artwoks-black:furniture---artwoks:furniture_artwoks_neg">
+      <caption webpage="furniture---artwoks-black" alt=""/>
+      <caption webpage="furniture_artwoks_neg" alt=""/>
+      <caption webpage="furniture---artwoks" alt=""/>
+      <caption webpage="furniture---artwoks" alt=""/>
+    </file>
+    <file name="u13967-6.png" crc="290799641" ref="tablet>furniture---artwoks"/>
+    <file name="u14230.png" crc="169259055" ref="tablet>furniture---artwoks"/>
+    <file name="u14230-r.png" crc="421277945" ref="tablet>furniture---artwoks"/>
+    <file name="u14230-a.png" crc="109492424" ref="tablet>furniture---artwoks"/>
+    <file name="u14235.png" crc="3932297958" ref="tablet>furniture---artwoks"/>
+    <file name="u14235-r.png" crc="4129266720" ref="tablet>furniture---artwoks"/>
+    <file name="u14235-a.png" crc="4052228921" ref="tablet>furniture---artwoks"/>
+    <file name="u14262.png" crc="212177285" ref="tablet>furniture---artwoks"/>
+    <file name="u14262-r.png" crc="131951130" ref="tablet>furniture---artwoks"/>
+    <file name="u14262-a.png" crc="510417122" ref="tablet>furniture---artwoks"/>
+    <file name="u14274.png" crc="4129419615" ref="tablet>furniture---artwoks"/>
+    <file name="u14274-r.png" crc="208293508" ref="tablet>furniture---artwoks"/>
+    <file name="u14274-a.png" crc="527822765" ref="tablet>furniture---artwoks"/>
+    <file name="u14223.png" crc="4232408057" ref="tablet>furniture---artwoks"/>
+    <file name="u14223-r.png" crc="4172631983" ref="tablet>furniture---artwoks"/>
+    <file name="u14223-a.png" crc="503912015" ref="tablet>furniture---artwoks"/>
+    <file name="u14259.png" crc="3839700780" ref="tablet>furniture---artwoks"/>
+    <file name="u14259-r.png" crc="1006442" ref="tablet>furniture---artwoks"/>
+    <file name="u14259-a.png" crc="4056901903" ref="tablet>furniture---artwoks"/>
+    <file name="u14280.png" crc="17708559" ref="tablet>furniture---artwoks"/>
+    <file name="u14280-r.png" crc="213548791" ref="tablet>furniture---artwoks"/>
+    <file name="u14280-a.png" crc="4160045500" ref="tablet>furniture---artwoks"/>
+    <file name="u14573_states.png" crc="4253489017" ref="tablet>woody_white-2"/>
+    <file name="u14573_states-r.png" crc="4232130059" ref="tablet>woody_white-2"/>
+    <file name="woody1.jpg" crc="3761730686" seo="true" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+      <caption webpage="woody_white1" alt=""/>
+      <caption webpage="woody_black-2" alt=""/>
+      <caption webpage="woody_neg-1" alt=""/>
+    </file>
+    <file name="woody2.jpg" crc="3767469182" seo="true" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+      <caption webpage="woody_white1" alt=""/>
+      <caption webpage="woody_black-2" alt=""/>
+      <caption webpage="woody_neg-1" alt=""/>
+    </file>
+    <file name="woody3.jpg" crc="193934516" seo="true" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+      <caption webpage="woody_white1" alt=""/>
+      <caption webpage="woody_black-2" alt=""/>
+      <caption webpage="woody_neg-1" alt=""/>
+    </file>
+    <file name="woody4.jpg" crc="528901972" seo="true" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+      <caption webpage="woody_white1" alt=""/>
+      <caption webpage="woody_black-2" alt=""/>
+      <caption webpage="woody_neg-1" alt=""/>
+    </file>
+    <file name="woody1150x113.jpg" crc="64576739" seo="true" ref="tablet>woody_white-2">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="woody2150x113.jpg" crc="3957949085" seo="true" ref="tablet>woody_white-2">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="woody3150x113.jpg" crc="3842412803" seo="true" ref="tablet>woody_white-2">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="woody4150x113.jpg" crc="3918021675" seo="true" ref="tablet>woody_white-2">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1"/>
+    <file name="u14669-4.png" crc="3873293978" ref="tablet>woody_white-2"/>
+    <file name="u14668-16.png" crc="499101684" ref="tablet>woody_white-2"/>
+    <file name="u14666-16.png" crc="4096921238" ref="tablet>woody_white-2"/>
+    <file name="u14665-7.png" crc="26448783" ref="tablet>woody_white-2"/>
+    <file name="u14654.png" crc="4177461186" ref="tablet>woody_white-2"/>
+    <file name="u14654-ferr.png" crc="188385043" ref="tablet>woody_white-2"/>
+    <file name="u14648.png" crc="222382146" ref="tablet>woody_white-2"/>
+    <file name="u14648-ferr.png" crc="509523866" ref="tablet>woody_white-2"/>
+    <file name="u14616-fs.png" crc="3794925187" ref="tablet>woody_white-2"/>
+    <file name="u14615-fse.png" crc="443965018" ref="tablet>woody_white-2"/>
+    <file name="u14646-fss.png" crc="441052461" ref="tablet>woody_white-2"/>
+    <file name="u14621-4.png" crc="117263559" ref="tablet>woody_white-2"/>
+    <file name="u14618.png" crc="163433904" ref="tablet>woody_white-2"/>
+    <file name="u14618-ferr.png" crc="4058286980" ref="tablet>woody_white-2"/>
+    <file name="u14644.png" crc="75638321" ref="tablet>woody_white-2"/>
+    <file name="u14644-ferr.png" crc="3902307246" ref="tablet>woody_white-2"/>
+    <file name="u14662.png" crc="4067070176" ref="tablet>woody_white-2"/>
+    <file name="u14662-ferr.png" crc="4196741826" ref="tablet>woody_white-2"/>
+    <file name="u14623.png" crc="313769887" ref="tablet>woody_white-2"/>
+    <file name="u14623-ferr.png" crc="150802151" ref="tablet>woody_white-2"/>
+    <file name="u14628.png" crc="191432080" ref="tablet>woody_white-2"/>
+    <file name="u14628-ferr.png" crc="4137268423" ref="tablet>woody_white-2"/>
+    <file name="u14639.png" crc="348079168" ref="tablet>woody_white-2"/>
+    <file name="u14639-ferr.png" crc="4047662554" ref="tablet>woody_white-2"/>
+    <file name="u14657.png" crc="4126034349" ref="tablet>woody_white-2"/>
+    <file name="u14657-ferr.png" crc="3827755266" ref="tablet>woody_white-2"/>
+    <file name="u14637.png" crc="3948390153" ref="tablet>woody_white-2"/>
+    <file name="u14637-ferr.png" crc="3852226379" ref="tablet>woody_white-2"/>
+    <file name="u14631.png" crc="4201005458" ref="tablet>woody_white-2"/>
+    <file name="u14631-ferr.png" crc="4091113580" ref="tablet>woody_white-2"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+    </file>
+    <file name="icons8-удалить-filled-50.png" crc="28801845" ref="tablet>woody_white-2:tablet>woody_black-2:woody_white1:woody_neg-1">
+      <caption webpage="woody_white-2" alt=""/>
+      <caption webpage="woody_white-2" alt=""/>
+      <caption webpage="woody_white-2" alt=""/>
+      <caption webpage="woody_white1" alt=""/>
+      <caption webpage="woody_white1" alt=""/>
+      <caption webpage="woody_white1" alt=""/>
+      <caption webpage="woody_black-2" alt=""/>
+      <caption webpage="woody_black-2" alt=""/>
+      <caption webpage="woody_black-2" alt=""/>
+      <caption webpage="woody_neg-1" alt=""/>
+      <caption webpage="woody_neg-1" alt=""/>
+      <caption webpage="woody_neg-1" alt=""/>
+    </file>
+    <file name="u11565.png" crc="191476278" ref="tablet>office-tab-white"/>
+    <file name="u11565-r.png" crc="267800483" ref="tablet>office-tab-white"/>
+    <file name="u11565-a.png" crc="487707632" ref="tablet>office-tab-white"/>
+    <file name="u11575.png" crc="3873487396" ref="tablet>office-tab-white"/>
+    <file name="u11575-r.png" crc="233330700" ref="tablet>office-tab-white"/>
+    <file name="u11575-a.png" crc="3883681983" ref="tablet>office-tab-white"/>
+    <file name="u11583.png" crc="3898780301" ref="tablet>office-tab-white"/>
+    <file name="u11583-r.png" crc="4107033449" ref="tablet>office-tab-white"/>
+    <file name="u11583-a.png" crc="3819093188" ref="tablet>office-tab-white"/>
+    <file name="u11597.png" crc="407517551" ref="tablet>office-tab-white"/>
+    <file name="u11597-r.png" crc="3851091987" ref="tablet>office-tab-white"/>
+    <file name="u11597-a.png" crc="290147490" ref="tablet>office-tab-white"/>
+    <file name="u11590.png" crc="448463243" ref="tablet>office-tab-white"/>
+    <file name="u11590-r.png" crc="173652959" ref="tablet>office-tab-white"/>
+    <file name="u11590-a.png" crc="153582486" ref="tablet>office-tab-white"/>
+    <file name="u11601.png" crc="4280885488" ref="tablet>office-tab-white"/>
+    <file name="u11601-r.png" crc="101486084" ref="tablet>office-tab-white"/>
+    <file name="u11601-a.png" crc="115099974" ref="tablet>office-tab-white"/>
+    <file name="14434841_1179840825390738_7571494432246179220_o768x475.jpg" crc="3847308542" seo="true" ref="tablet>office-tab-white">
+      <caption webpage="office-tab-white" alt=""/>
+    </file>
+    <file name="u11607-8.png" crc="18888403" ref="tablet>office-tab-white"/>
+    <file name="u11608-6.png" crc="4229374455" ref="tablet>office-tab-white"/>
+    <file name="u14941-5.png" crc="58476567" ref="tablet>gate2-black"/>
+    <file name="u15890.png" crc="4113919508" ref="tablet>home-tab2-black"/>
+    <file name="u15890-r.png" crc="3914599591" ref="tablet>home-tab2-black"/>
+    <file name="u15890-a.png" crc="3914599591" ref="tablet>home-tab2-black"/>
+    <file name="u15895.png" crc="3939676784" ref="tablet>home-tab2-black"/>
+    <file name="u15895-r.png" crc="256533146" ref="tablet>home-tab2-black"/>
+    <file name="u15895-a.png" crc="256533146" ref="tablet>home-tab2-black"/>
+    <file name="u15906.png" crc="4139561398" ref="tablet>home-tab2-black"/>
+    <file name="u15906-r.png" crc="325222595" ref="tablet>home-tab2-black"/>
+    <file name="u15906-a.png" crc="325222595" ref="tablet>home-tab2-black"/>
+    <file name="u15884-4.png" crc="433609510" ref="tablet>home-tab2-black"/>
+    <file name="u15142-4.png" crc="4140168716" ref="tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black)"/>
+    <file name="u15131.png" crc="4164862227" ref="tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black)"/>
+    <file name="u15131-a.png" crc="487266707" ref="tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black)"/>
+    <file name="u15127.png" crc="135239962" ref="tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black)"/>
+    <file name="u15127-a.png" crc="498352618" ref="tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black)"/>
+    <file name="u15139.png" crc="274981258" ref="tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black)"/>
+    <file name="u15139-a.png" crc="195824363" ref="tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black)"/>
+    <file name="u16179.png" crc="399184336" ref="tablet>works-(black)"/>
+    <file name="u16179-r.png" crc="265953105" ref="tablet>works-(black)"/>
+    <file name="u16179-a.png" crc="320428148" ref="tablet>works-(black)"/>
+    <file name="u16177-6.png" crc="4066725844" ref="tablet>works-(black)"/>
+    <file name="u16176-6.png" crc="437812211" ref="tablet>works-(black)"/>
+    <file name="u16168_states.png" crc="3886571167" ref="tablet>works-(black)"/>
+    <file name="u16168_states-r.png" crc="512822010" ref="tablet>works-(black)"/>
+    <file name="u16170-6.png" crc="81121002" ref="tablet>works-(black)"/>
+    <file name="u16172.png" crc="3917797942" ref="tablet>works-(black)"/>
+    <file name="u16172-r.png" crc="3795893120" ref="tablet>works-(black)"/>
+    <file name="u16226.png" crc="4155056867" ref="tablet>works-(black)"/>
+    <file name="u16226-r.png" crc="485249032" ref="tablet>works-(black)"/>
+    <file name="u16226-a.png" crc="4013080153" ref="tablet>works-(black)"/>
+    <file name="u16200.png" crc="468735010" ref="tablet>works-(black)"/>
+    <file name="u16200-r.png" crc="172281693" ref="tablet>works-(black)"/>
+    <file name="u16200-a.png" crc="521733666" ref="tablet>works-(black)"/>
+    <file name="u16197-6.png" crc="4066725844" ref="tablet>works-(black)"/>
+    <file name="u16198-6.png" crc="437812211" ref="tablet>works-(black)"/>
+    <file name="u16194_states.png" crc="3886571167" ref="tablet>works-(black)"/>
+    <file name="u16194_states-r.png" crc="512822010" ref="tablet>works-(black)"/>
+    <file name="u16193-6.png" crc="81121002" ref="tablet>works-(black)"/>
+    <file name="u16214.png" crc="3810203931" ref="tablet>works-(black)"/>
+    <file name="u16214-r.png" crc="4291813614" ref="tablet>works-(black)"/>
+    <file name="u16214-a.png" crc="145766670" ref="tablet>works-(black)"/>
+    <file name="u16223-6.png" crc="4066725844" ref="tablet>works-(black)"/>
+    <file name="u16224-6.png" crc="437812211" ref="tablet>works-(black)"/>
+    <file name="u16219_states.png" crc="3886571167" ref="tablet>works-(black)"/>
+    <file name="u16219_states-r.png" crc="512822010" ref="tablet>works-(black)"/>
+    <file name="u16217-6.png" crc="81121002" ref="tablet>works-(black)"/>
+    <file name="u16202.png" crc="3901385196" ref="tablet>works-(black)"/>
+    <file name="u16202-r.png" crc="252789316" ref="tablet>works-(black)"/>
+    <file name="u16202-a.png" crc="3820969960" ref="tablet>works-(black)"/>
+    <file name="u16164.png" crc="4266298907" ref="tablet>works-(black)"/>
+    <file name="u16164-r.png" crc="294510585" ref="tablet>works-(black)"/>
+    <file name="u16164-a.png" crc="4148123307" ref="tablet>works-(black)"/>
+    <file name="u16181.png" crc="309651062" ref="tablet>works-(black)"/>
+    <file name="u16181-r.png" crc="4223655562" ref="tablet>works-(black)"/>
+    <file name="u16181-a.png" crc="4031138435" ref="tablet>works-(black)"/>
+    <file name="u16229.png" crc="119988122" ref="tablet>works-(black)"/>
+    <file name="u16229-r.png" crc="3817457283" ref="tablet>works-(black)"/>
+    <file name="u16229-a.png" crc="487261899" ref="tablet>works-(black)"/>
+    <file name="u16208.png" crc="70176358" ref="tablet>works-(black)"/>
+    <file name="u16208-r.png" crc="207117695" ref="tablet>works-(black)"/>
+    <file name="u16208-a.png" crc="245254500" ref="tablet>works-(black)"/>
+    <file name="u16211.png" crc="3988993373" ref="tablet>works-(black)"/>
+    <file name="u16211-r.png" crc="241785092" ref="tablet>works-(black)"/>
+    <file name="u16211-a.png" crc="374157227" ref="tablet>works-(black)"/>
+    <file name="u16184.png" crc="371828512" ref="tablet>works-(black)"/>
+    <file name="u16184-r.png" crc="4204925757" ref="tablet>works-(black)"/>
+    <file name="u16184-a.png" crc="3804443775" ref="tablet>works-(black)"/>
+    <file name="u16188.png" crc="3917797942" ref="tablet>works-(black)"/>
+    <file name="u16188-r.png" crc="3795893120" ref="tablet>works-(black)"/>
+    <file name="u16205.png" crc="4291127494" ref="tablet>works-(black)"/>
+    <file name="u16205-r.png" crc="293070215" ref="tablet>works-(black)"/>
+    <file name="u16205-a.png" crc="4076456218" ref="tablet>works-(black)"/>
+    <file name="u15119-4.png" crc="96560307" ref="tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black)"/>
+    <file name="u16386.png" crc="261457837" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16386-r.png" crc="224909505" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16386-a.png" crc="182861917" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16363-6.png" crc="3880250455" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16380-6.png" crc="4042030647" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16385-6.png" crc="103007998" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16367-6.png" crc="416116198" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16372-6.png" crc="290799641" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16351.png" crc="42961230" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16351-r.png" crc="82919516" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16351-a.png" crc="164055029" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16355.png" crc="4209624373" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16355-r.png" crc="212837041" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16355-a.png" crc="145312477" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16343.png" crc="3835202832" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16343-r.png" crc="3806204446" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16343-a.png" crc="124324899" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16388.png" crc="429635866" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16388-r.png" crc="3860690001" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16388-a.png" crc="139681668" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16348.png" crc="4221515872" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16348-r.png" crc="4122730735" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16348-a.png" crc="106727824" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16346.png" crc="4157191047" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16346-r.png" crc="4123193963" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16346-a.png" crc="3765052868" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16357.png" crc="4035238747" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16357-r.png" crc="491560486" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16357-a.png" crc="3937403324" ref="tablet>furniture---artwoks-black"/>
+    <file name="u16435-6.png" crc="4011212000" ref="tablet>artmaster-black"/>
+    <file name="u16429-15.png" crc="510934610" ref="tablet>artmaster-black"/>
+    <file name="u16426-15.png" crc="31759981" ref="tablet>artmaster-black"/>
+    <file name="u16428-10.png" crc="4110244222" ref="tablet>artmaster-black"/>
+    <file name="u16409-10.png" crc="493987067" ref="tablet>artmaster-black"/>
+    <file name="u16432.png" crc="3799339269" ref="tablet>artmaster-black"/>
+    <file name="u16432-a.png" crc="3799339269" ref="tablet>artmaster-black"/>
+    <file name="u16434-7.png" crc="249933692" ref="tablet>artmaster-black"/>
+    <file name="u16889-6.png" crc="185330879" ref="tablet>showplace-tab-black"/>
+    <file name="u16883-14.png" crc="246529491" ref="tablet>showplace-tab-black"/>
+    <file name="u16892-15.png" crc="300250662" ref="tablet>showplace-tab-black"/>
+    <file name="u16882-10.png" crc="443045686" ref="tablet>showplace-tab-black"/>
+    <file name="u16890-10.png" crc="350715954" ref="tablet>showplace-tab-black"/>
+    <file name="u16886.png" crc="3840558000" ref="tablet>showplace-tab-black"/>
+    <file name="u16886-a.png" crc="501712266" ref="tablet>showplace-tab-black"/>
+    <file name="u16888-6.png" crc="195726396" ref="tablet>showplace-tab-black"/>
+    <file name="u17495_states.png" crc="4253489017" ref="tablet>woody_black-2"/>
+    <file name="u17495_states-r.png" crc="4232130059" ref="tablet>woody_black-2"/>
+    <file name="u17594-4.png" crc="4009154278" ref="tablet>woody_black-2"/>
+    <file name="u17534-16.png" crc="3931326444" ref="tablet>woody_black-2"/>
+    <file name="u17533-16.png" crc="352854295" ref="tablet>woody_black-2"/>
+    <file name="u17532-7.png" crc="333068860" ref="tablet>woody_black-2"/>
+    <file name="u17571.png" crc="4185792869" ref="tablet>woody_black-2"/>
+    <file name="u17571-ferr.png" crc="3919542523" ref="tablet>woody_black-2"/>
+    <file name="u17568.png" crc="3791963425" ref="tablet>woody_black-2"/>
+    <file name="u17568-ferr.png" crc="4294820476" ref="tablet>woody_black-2"/>
+    <file name="u17591-fs.png" crc="3794925187" ref="tablet>woody_black-2"/>
+    <file name="u17590-fse.png" crc="443965018" ref="tablet>woody_black-2"/>
+    <file name="u17560-fss.png" crc="441052461" ref="tablet>woody_black-2"/>
+    <file name="u17561-4.png" crc="117263559" ref="tablet>woody_black-2"/>
+    <file name="u17547.png" crc="4227166097" ref="tablet>woody_black-2"/>
+    <file name="u17547-ferr.png" crc="3972424961" ref="tablet>woody_black-2"/>
+    <file name="u17583.png" crc="4246907327" ref="tablet>woody_black-2"/>
+    <file name="u17583-ferr.png" crc="162454260" ref="tablet>woody_black-2"/>
+    <file name="u17581.png" crc="4087510089" ref="tablet>woody_black-2"/>
+    <file name="u17581-ferr.png" crc="4230413116" ref="tablet>woody_black-2"/>
+    <file name="u17577.png" crc="206661455" ref="tablet>woody_black-2"/>
+    <file name="u17577-ferr.png" crc="4105166337" ref="tablet>woody_black-2"/>
+    <file name="u17587.png" crc="3859077495" ref="tablet>woody_black-2"/>
+    <file name="u17587-ferr.png" crc="233993043" ref="tablet>woody_black-2"/>
+    <file name="u17557.png" crc="470030135" ref="tablet>woody_black-2"/>
+    <file name="u17557-ferr.png" crc="4232471610" ref="tablet>woody_black-2"/>
+    <file name="u17553.png" crc="3775257210" ref="tablet>woody_black-2"/>
+    <file name="u17553-ferr.png" crc="4259996355" ref="tablet>woody_black-2"/>
+    <file name="u17549.png" crc="387127822" ref="tablet>woody_black-2"/>
+    <file name="u17549-ferr.png" crc="120358449" ref="tablet>woody_black-2"/>
+    <file name="u17563.png" crc="446892763" ref="tablet>woody_black-2"/>
+    <file name="u17563-ferr.png" crc="3972407876" ref="tablet>woody_black-2"/>
+    <file name="u17873.png" crc="534839704" ref="tablet>office-(black)"/>
+    <file name="u17873-r.png" crc="534839704" ref="tablet>office-(black)"/>
+    <file name="u17873-a.png" crc="169527743" ref="tablet>office-(black)"/>
+    <file name="u17868.png" crc="142512379" ref="tablet>office-(black)"/>
+    <file name="u17868-r.png" crc="142512379" ref="tablet>office-(black)"/>
+    <file name="u17868-a.png" crc="220739291" ref="tablet>office-(black)"/>
+    <file name="u17857.png" crc="409277031" ref="tablet>office-(black)"/>
+    <file name="u17857-r.png" crc="409277031" ref="tablet>office-(black)"/>
+    <file name="u17857-a.png" crc="3881250913" ref="tablet>office-(black)"/>
+    <file name="u17852.png" crc="3783469267" ref="tablet>office-(black)"/>
+    <file name="u17852-r.png" crc="3783469267" ref="tablet>office-(black)"/>
+    <file name="u17852-a.png" crc="122390938" ref="tablet>office-(black)"/>
+    <file name="u17859.png" crc="273594916" ref="tablet>office-(black)"/>
+    <file name="u17859-r.png" crc="273594916" ref="tablet>office-(black)"/>
+    <file name="u17859-a.png" crc="170087075" ref="tablet>office-(black)"/>
+    <file name="u17864.png" crc="4223549772" ref="tablet>office-(black)"/>
+    <file name="u17864-r.png" crc="4223549772" ref="tablet>office-(black)"/>
+    <file name="u17864-a.png" crc="51226589" ref="tablet>office-(black)"/>
+    <file name="14434841_1179840825390738_7571494432246179220_o650x402.jpg" crc="4254192327" seo="true" ref="tablet>office-(black)">
+      <caption webpage="office-(black)" alt=""/>
+    </file>
+    <file name="u17878-8.png" crc="3804722797" ref="tablet>office-(black)"/>
+    <file name="u17879-6.png" crc="3830640015" ref="tablet>office-(black)"/>
+    <file name="u333-5.png" crc="111509206" ref="gate-white"/>
+    <file name="u5618.png" crc="353203144" ref="homepage-white"/>
+    <file name="u5618-r.png" crc="3895565065" ref="homepage-white"/>
+    <file name="u5618-a.png" crc="3895565065" ref="homepage-white"/>
+    <file name="u5660.png" crc="4223101783" ref="homepage-white"/>
+    <file name="u5660-r.png" crc="4045173675" ref="homepage-white"/>
+    <file name="u5660-a.png" crc="4045173675" ref="homepage-white"/>
+    <file name="u5688.png" crc="17175031" ref="homepage-white"/>
+    <file name="u5688-r.png" crc="217580355" ref="homepage-white"/>
+    <file name="u5688-a.png" crc="217580355" ref="homepage-white"/>
+    <file name="u4691-4.png" crc="399825498" ref="homepage-white"/>
+    <file name="u397-4.png" crc="282979454" ref="works:furniture---artwoks:artmaster:showplace:office-white"/>
+    <file name="u5880.png" crc="3895565065" ref="works:furniture---artwoks:artmaster:showplace:office-white"/>
+    <file name="u5880-a.png" crc="279953147" ref="works:furniture---artwoks:artmaster:showplace:office-white"/>
+    <file name="u5874.png" crc="4045173675" ref="works:furniture---artwoks:artmaster:showplace:office-white"/>
+    <file name="u5874-a.png" crc="3770738237" ref="works:furniture---artwoks:artmaster:showplace:office-white"/>
+    <file name="u5887.png" crc="217580355" ref="works:furniture---artwoks:artmaster:showplace:office-white"/>
+    <file name="u5887-a.png" crc="193217941" ref="works:furniture---artwoks:artmaster:showplace:office-white"/>
+    <file name="artmaster_neg.jpg" crc="4175260139" ref="works:works-_neg">
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+    </file>
+    <file name="artmaster_act.jpg" crc="355427751" ref="works:works-_neg">
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+    </file>
+    <file name="showplace_act-u2461-r-fr.jpg" crc="303500925" ref="works:works-_neg"/>
+    <file name="mebels_neg.jpg" crc="70324642" ref="works:works-_neg">
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+    </file>
+    <file name="mebels_act.jpg" crc="480890395" ref="works:works-_neg">
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+      <caption webpage="works-_neg" alt=""/>
+    </file>
+    <file name="u13621.png" crc="502214429" ref="furniture---artwoks"/>
+    <file name="u13621-r.png" crc="243773584" ref="furniture---artwoks"/>
+    <file name="u13621-a.png" crc="524615225" ref="furniture---artwoks"/>
+    <file name="u13675.png" crc="483464939" ref="furniture---artwoks"/>
+    <file name="u13675-r.png" crc="3782592481" ref="furniture---artwoks"/>
+    <file name="u13675-a.png" crc="4168850460" ref="furniture---artwoks"/>
+    <file name="u13670.png" crc="3913863239" ref="furniture---artwoks"/>
+    <file name="u13670-r.png" crc="48891808" ref="furniture---artwoks"/>
+    <file name="u13670-a.png" crc="4036113951" ref="furniture---artwoks"/>
+    <file name="u13648.png" crc="4181796680" ref="furniture---artwoks"/>
+    <file name="u13648-r.png" crc="378592827" ref="furniture---artwoks"/>
+    <file name="u13648-a.png" crc="308260896" ref="furniture---artwoks"/>
+    <file name="u13633.png" crc="452948877" ref="furniture---artwoks"/>
+    <file name="u13633-r.png" crc="3797385465" ref="furniture---artwoks"/>
+    <file name="u13633-a.png" crc="413137716" ref="furniture---artwoks"/>
+    <file name="u13672.png" crc="3788654985" ref="furniture---artwoks"/>
+    <file name="u13672-r.png" crc="340354120" ref="furniture---artwoks"/>
+    <file name="u13672-a.png" crc="4250742584" ref="furniture---artwoks"/>
+    <file name="u13636.png" crc="81993698" ref="furniture---artwoks"/>
+    <file name="u13636-r.png" crc="444159003" ref="furniture---artwoks"/>
+    <file name="u13636-a.png" crc="4106137048" ref="furniture---artwoks"/>
+    <file name="u13619.png" crc="4168221617" ref="furniture---artwoks"/>
+    <file name="u13619-r.png" crc="3944219890" ref="furniture---artwoks"/>
+    <file name="u13619-a.png" crc="81799829" ref="furniture---artwoks"/>
+    <file name="u13645.png" crc="32172185" ref="furniture---artwoks"/>
+    <file name="u13645-r.png" crc="3941759493" ref="furniture---artwoks"/>
+    <file name="u13645-a.png" crc="3924896336" ref="furniture---artwoks"/>
+    <file name="u13642.png" crc="4149759400" ref="furniture---artwoks"/>
+    <file name="u13642-r.png" crc="4063973838" ref="furniture---artwoks"/>
+    <file name="u13642-a.png" crc="4131453850" ref="furniture---artwoks"/>
+    <file name="u13639.png" crc="387786931" ref="furniture---artwoks"/>
+    <file name="u13639-r.png" crc="338860697" ref="furniture---artwoks"/>
+    <file name="u13639-a.png" crc="9287264" ref="furniture---artwoks"/>
+    <file name="u13678.png" crc="455209711" ref="furniture---artwoks"/>
+    <file name="u13678-r.png" crc="97607658" ref="furniture---artwoks"/>
+    <file name="u13678-a.png" crc="4196480041" ref="furniture---artwoks"/>
+    <file name="1-u1566-r-fr.jpg" crc="4088483733" ref="artmaster:artmaster-neg"/>
+    <file name="2-u1659-r-fr.jpg" crc="70273027" ref="artmaster:artmaster-neg"/>
+    <file name="3-u1684-r-fr.jpg" crc="4084022172" ref="artmaster:artmaster-neg"/>
+    <file name="4-u1706-r-fr.jpg" crc="3897269687" ref="artmaster:artmaster-neg"/>
+    <file name="5-u1728-r-fr.jpg" crc="4194092212" ref="artmaster:artmaster-neg"/>
+    <file name="1.jpg" crc="3961479999" ref="artmaster:artmaster-neg">
+      <caption webpage="artmaster" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3933425394" ref="artmaster:artmaster-neg">
+      <caption webpage="artmaster" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4133851131" ref="artmaster:artmaster-neg">
+      <caption webpage="artmaster" alt=""/>
+    </file>
+    <file name="4.jpg" crc="434709067" ref="artmaster:artmaster-neg">
+      <caption webpage="artmaster" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3892163549" ref="artmaster:artmaster-neg">
+      <caption webpage="artmaster" alt=""/>
+    </file>
+    <file name="u1750-6.png" crc="487418763" ref="artmaster"/>
+    <file name="u1753-15.png" crc="4065790977" ref="artmaster"/>
+    <file name="u1756-15.png" crc="3814704317" ref="artmaster"/>
+    <file name="u1759-10.png" crc="4125144423" ref="artmaster"/>
+    <file name="u1762-10.png" crc="4107836566" ref="artmaster"/>
+    <file name="u1772.png" crc="3916052899" ref="artmaster"/>
+    <file name="u1772-a.png" crc="3916052899" ref="artmaster"/>
+    <file name="u1807-7.png" crc="135005826" ref="artmaster"/>
+    <file name="1neg1.jpg" crc="27462121" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="01-u1845-r-fr.jpg" crc="164740493" ref="showplace:showplace-neg"/>
+    <file name="1neg2.jpg" crc="4068764564" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="02 - masterplan-u1849-a-fr.jpg" crc="243158388" ref="showplace:showplace-neg"/>
+    <file name="03 - zoning and circulation diagram-u1848-r-fr.jpg" crc="220059432" ref="showplace:showplace-neg"/>
+    <file name="1neg4.jpg" crc="4096182050" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="04 - ground floor-u1847-r-fr.jpg" crc="4288481195" ref="showplace:showplace-neg"/>
+    <file name="1neg5.jpg" crc="3877788707" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="05 - second floor-u1846-r-fr.jpg" crc="4242023585" ref="showplace:showplace-neg"/>
+    <file name="1neg6.jpg" crc="7283469" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="06 - from level 3 to terrace level-u2002-r-fr.jpg" crc="449831644" ref="showplace:showplace-neg"/>
+    <file name="1neg7.jpg" crc="4273945000" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="07 - roof-u2027-r-fr.jpg" crc="4173867569" ref="showplace:showplace-neg"/>
+    <file name="1neg8.jpg" crc="3968464827" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="08-u2049-r-fr.jpg" crc="4031140607" ref="showplace:showplace-neg"/>
+    <file name="1neg9.jpg" crc="3930020925" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="09-u2071-r-fr.jpg" crc="304852317" ref="showplace:showplace-neg"/>
+    <file name="1neg10.jpg" crc="4022600923" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="10-u2093-r-fr.jpg" crc="3954563344" ref="showplace:showplace-neg"/>
+    <file name="1neg11.jpg" crc="326034662" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="11-u2115-m-fr.jpg" crc="255370232" ref="showplace:showplace-neg"/>
+    <file name="01.jpg" crc="3893669381" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="02 - masterplan.jpg" crc="4242073034" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="03 - zoning and circulation diagram.jpg" crc="4195490564" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="04 - ground floor.jpg" crc="415440896" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="05 - second floor.jpg" crc="4202774813" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="06 - from level 3 to terrace level.jpg" crc="3987517808" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="07 - roof.jpg" crc="4204254207" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="08.jpg" crc="4109481860" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="09.jpg" crc="3812320095" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="10.jpg" crc="4117034290" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="11.jpg" crc="386679964" ref="showplace:showplace-neg">
+      <caption webpage="showplace" alt=""/>
+    </file>
+    <file name="u1860-6.png" crc="4169238643" ref="showplace"/>
+    <file name="u1861-15.png" crc="394105252" ref="showplace"/>
+    <file name="u1862-16.png" crc="424267401" ref="showplace"/>
+    <file name="u1842-10.png" crc="428080716" ref="showplace"/>
+    <file name="u1859-10.png" crc="3768187830" ref="showplace"/>
+    <file name="u1865.png" crc="4081493658" ref="showplace"/>
+    <file name="u1865-a.png" crc="4081493658" ref="showplace"/>
+    <file name="woody1200x150.jpg" crc="380268311" seo="true" ref="woody_white1">
+      <caption webpage="woody_white1" alt=""/>
+    </file>
+    <file name="woody2200x150.jpg" crc="3874832101" seo="true" ref="woody_white1">
+      <caption webpage="woody_white1" alt=""/>
+    </file>
+    <file name="woody3200x150.jpg" crc="4104314278" seo="true" ref="woody_white1">
+      <caption webpage="woody_white1" alt=""/>
+    </file>
+    <file name="woody4200x150.jpg" crc="155251575" seo="true" ref="woody_white1">
+      <caption webpage="woody_white1" alt=""/>
+    </file>
+    <file name="u5524-4.png" crc="390675364" ref="woody_neg-1:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="u3525_states.png" crc="460010188" ref="woody_neg-1"/>
+    <file name="u3525_states-r.png" crc="346148755" ref="woody_neg-1"/>
+    <file name="u6330-4.png" crc="3973496396" ref="woody_neg-1:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="u6324-4.png" crc="3774334938" ref="woody_neg-1:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="u6337-4.png" crc="277925703" ref="woody_neg-1:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="u4390-16.png" crc="3913964723" ref="woody_neg-1"/>
+    <file name="u4391-16.png" crc="3847590607" ref="woody_neg-1"/>
+    <file name="u4392-7.png" crc="3800930018" ref="woody_neg-1"/>
+    <file name="u4464.png" crc="262014476" ref="woody_neg-1"/>
+    <file name="u4464-a.png" crc="4120214349" ref="woody_neg-1"/>
+    <file name="u5523-4.png" crc="3768618420" ref="woody_neg-1:works-_neg:furniture_artwoks_neg:artmaster-neg:showplace-neg:office_neg"/>
+    <file name="u7468.png" crc="4226066526" ref="office-white"/>
+    <file name="u7468-r.png" crc="4140595077" ref="office-white"/>
+    <file name="u7468-a.png" crc="4167428470" ref="office-white"/>
+    <file name="u7595.png" crc="222601103" ref="office-white"/>
+    <file name="u7595-r.png" crc="4286777239" ref="office-white"/>
+    <file name="u7595-a.png" crc="3835915799" ref="office-white"/>
+    <file name="u7615.png" crc="466912135" ref="office-white"/>
+    <file name="u7615-r.png" crc="18830211" ref="office-white"/>
+    <file name="u7615-a.png" crc="4003435334" ref="office-white"/>
+    <file name="u7639.png" crc="162797249" ref="office-white"/>
+    <file name="u7639-r.png" crc="4024939772" ref="office-white"/>
+    <file name="u7639-a.png" crc="3793113685" ref="office-white"/>
+    <file name="u7658.png" crc="177890365" ref="office-white"/>
+    <file name="u7658-r.png" crc="4062552398" ref="office-white"/>
+    <file name="u7658-a.png" crc="450389987" ref="office-white"/>
+    <file name="u7681.png" crc="242602994" ref="office-white"/>
+    <file name="u7681-r.png" crc="22977854" ref="office-white"/>
+    <file name="u7681-a.png" crc="3992846558" ref="office-white"/>
+    <file name="14434841_1179840825390738_7571494432246179220_o.jpg" crc="4104591276" seo="true" ref="office-white:office_neg">
+      <caption webpage="office_neg" alt=""/>
+      <caption webpage="office-white" alt=""/>
+    </file>
+    <file name="u8141-9.png" crc="4005373863" ref="office-white"/>
+    <file name="u8145-6.png" crc="487989915" ref="office-white"/>
+    <file name="u5269-5.png" crc="4047149143" ref="index"/>
+    <file name="u4939-4.png" crc="214889179" ref="index"/>
+    <file name="u4995-4.png" crc="3790845790" ref="gate-neg"/>
+    <file name="u5542-4.png" crc="409081850" ref="homepage-neg"/>
+    <file name="u8311.png" crc="3973496396" ref="homepage-neg"/>
+    <file name="u8311-r.png" crc="93461089" ref="homepage-neg"/>
+    <file name="u8311-a.png" crc="93461089" ref="homepage-neg"/>
+    <file name="u8298.png" crc="3774334938" ref="homepage-neg"/>
+    <file name="u8298-r.png" crc="507581492" ref="homepage-neg"/>
+    <file name="u8298-a.png" crc="507581492" ref="homepage-neg"/>
+    <file name="u8305.png" crc="277925703" ref="homepage-neg"/>
+    <file name="u8305-r.png" crc="3952986675" ref="homepage-neg"/>
+    <file name="u8305-a.png" crc="3952986675" ref="homepage-neg"/>
+    <file name="u6237.png" crc="3884610766" ref="works-_neg"/>
+    <file name="u6237-r.png" crc="3884610766" ref="works-_neg"/>
+    <file name="u6237-a.png" crc="4053231249" ref="works-_neg"/>
+    <file name="u6273.png" crc="4018938792" ref="works-_neg"/>
+    <file name="u6273-r.png" crc="4018938792" ref="works-_neg"/>
+    <file name="u6273-a.png" crc="3881114395" ref="works-_neg"/>
+    <file name="u6258.png" crc="4204847021" ref="works-_neg"/>
+    <file name="u6258-r.png" crc="4204847021" ref="works-_neg"/>
+    <file name="u6258-a.png" crc="247898204" ref="works-_neg"/>
+    <file name="u6266.png" crc="4042999488" ref="works-_neg"/>
+    <file name="u6266-r.png" crc="4042999488" ref="works-_neg"/>
+    <file name="u6266-a.png" crc="4106363826" ref="works-_neg"/>
+    <file name="u6231.png" crc="25381495" ref="works-_neg"/>
+    <file name="u6231-r.png" crc="25381495" ref="works-_neg"/>
+    <file name="u6231-a.png" crc="41275894" ref="works-_neg"/>
+    <file name="u6269.png" crc="417661295" ref="works-_neg"/>
+    <file name="u6269-r.png" crc="417661295" ref="works-_neg"/>
+    <file name="u6269-a.png" crc="453509757" ref="works-_neg"/>
+    <file name="u6262.png" crc="95043441" ref="works-_neg"/>
+    <file name="u6262-r.png" crc="95043441" ref="works-_neg"/>
+    <file name="u6262-a.png" crc="96605843" ref="works-_neg"/>
+    <file name="u6247.png" crc="3845676683" ref="works-_neg"/>
+    <file name="u6247-r.png" crc="3845676683" ref="works-_neg"/>
+    <file name="u6247-a.png" crc="253188741" ref="works-_neg"/>
+    <file name="u6253.png" crc="3872183586" ref="works-_neg"/>
+    <file name="u6253-r.png" crc="3872183586" ref="works-_neg"/>
+    <file name="u6253-a.png" crc="32922249" ref="works-_neg"/>
+    <file name="u6241.png" crc="3782136638" ref="works-_neg"/>
+    <file name="u6241-r.png" crc="3782136638" ref="works-_neg"/>
+    <file name="u6241-a.png" crc="211957215" ref="works-_neg"/>
+    <file name="u6234.png" crc="4258004410" ref="works-_neg"/>
+    <file name="u6234-r.png" crc="4258004410" ref="works-_neg"/>
+    <file name="u6234-a.png" crc="161528930" ref="works-_neg"/>
+    <file name="u6251.png" crc="4154410928" ref="works-_neg"/>
+    <file name="u6251-r.png" crc="4154410928" ref="works-_neg"/>
+    <file name="u6251-a.png" crc="512116807" ref="works-_neg"/>
+    <file name="u6641-6.png" crc="23381039" ref="artmaster-neg"/>
+    <file name="u6642-16.png" crc="4277820269" ref="artmaster-neg"/>
+    <file name="u6643-15.png" crc="3886785858" ref="artmaster-neg"/>
+    <file name="u6623-10.png" crc="506491221" ref="artmaster-neg"/>
+    <file name="u6640-10.png" crc="3887890550" ref="artmaster-neg"/>
+    <file name="u6646.png" crc="277631776" ref="artmaster-neg"/>
+    <file name="u6646-a.png" crc="277631776" ref="artmaster-neg"/>
+    <file name="u6648-7.png" crc="3985349605" ref="artmaster-neg"/>
+    <file name="u6666-6.png" crc="4071430528" ref="showplace-neg"/>
+    <file name="u6672-15.png" crc="4257886415" ref="showplace-neg"/>
+    <file name="u6665-16.png" crc="497858763" ref="showplace-neg"/>
+    <file name="u6674-10.png" crc="533522813" ref="showplace-neg"/>
+    <file name="u6673-10.png" crc="116590856" ref="showplace-neg"/>
+    <file name="u6671.png" crc="32779042" ref="showplace-neg"/>
+    <file name="u6671-a.png" crc="260795873" ref="showplace-neg"/>
+    <file name="u6670-6.png" crc="435137956" ref="showplace-neg"/>
+    <file name="u7183.png" crc="4252051850" ref="office_neg"/>
+    <file name="u7183-r.png" crc="4252051850" ref="office_neg"/>
+    <file name="u7183-a.png" crc="169471684" ref="office_neg"/>
+    <file name="u7959.png" crc="328926819" ref="office_neg"/>
+    <file name="u7959-r.png" crc="328926819" ref="office_neg"/>
+    <file name="u7959-a.png" crc="463355846" ref="office_neg"/>
+    <file name="u7974.png" crc="83316292" ref="office_neg"/>
+    <file name="u7974-r.png" crc="83316292" ref="office_neg"/>
+    <file name="u7974-a.png" crc="152857427" ref="office_neg"/>
+    <file name="u7990.png" crc="3797322902" ref="office_neg"/>
+    <file name="u7990-r.png" crc="3797322902" ref="office_neg"/>
+    <file name="u7990-a.png" crc="162226552" ref="office_neg"/>
+    <file name="u8004.png" crc="3761668728" ref="office_neg"/>
+    <file name="u8004-r.png" crc="3761668728" ref="office_neg"/>
+    <file name="u8004-a.png" crc="364223277" ref="office_neg"/>
+    <file name="u8019.png" crc="211478009" ref="office_neg"/>
+    <file name="u8019-r.png" crc="211478009" ref="office_neg"/>
+    <file name="u8019-a.png" crc="240869217" ref="office_neg"/>
+    <file name="u8278-8.png" crc="503329214" ref="office_neg"/>
+    <file name="u8279-6.png" crc="4234666158" ref="office_neg"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_tab-a_black_.css" crc="3942924375" ref="tablet>works-(black):tablet>furniture---artwoks-black:tablet>artmaster-black:tablet>showplace-tab-black:tablet>woody_black-2:tablet>office-(black)"/>
+      <file name="master_tab_black_.css" crc="425953596" ref="tablet>home-tab2-black"/>
+      <file name="master_tab-a_white_.css" crc="78938376" ref="tablet>showplace-tabwhite:tablet>furniture---artwoks:tablet>woody_white-2:tablet>office-tab-white:tablet>works:tablet>artmaster-white"/>
+      <file name="master_demo-tabwhite.css" crc="357358104" ref="tablet>home-tab-white"/>
+      <file name="showplace-tabwhite.css" crc="299044357" ref="tablet>showplace-tabwhite"/>
+      <file name="furniture---artwoks.css" crc="172591696" ref="tablet>furniture---artwoks"/>
+      <file name="woody_white-2.css" crc="197953398" ref="tablet>woody_white-2"/>
+      <file name="office-tab-white.css" crc="3836884992" ref="tablet>office-tab-white"/>
+      <file name="gate2-black.css" crc="529158855" ref="tablet>gate2-black"/>
+      <file name="home-tab2-black.css" crc="224240546" ref="tablet>home-tab2-black"/>
+      <file name="works-_black_.css" crc="3917483426" ref="tablet>works-(black)"/>
+      <file name="furniture---artwoks-black.css" crc="531859448" ref="tablet>furniture---artwoks-black"/>
+      <file name="index.css" crc="4133440201" ref="tablet>index"/>
+      <file name="artmaster-black.css" crc="295578979" ref="tablet>artmaster-black"/>
+      <file name="gate1-white.css" crc="4162132478" ref="tablet>gate1-white"/>
+      <file name="showplace-tab-black.css" crc="4042968038" ref="tablet>showplace-tab-black"/>
+      <file name="home-tab-white.css" crc="3950357772" ref="tablet>home-tab-white"/>
+      <file name="woody_black-2.css" crc="3834560328" ref="tablet>woody_black-2"/>
+      <file name="works.css" crc="4134318424" ref="tablet>works"/>
+      <file name="office-_black_.css" crc="4192576489" ref="tablet>office-(black)"/>
+      <file name="artmaster-white.css" crc="39801826" ref="tablet>artmaster-white"/>
+    </folder>
+    <file name="index.html" crc="3992710248" seo="true" mt="1555519118912" redirect="true"/>
+    <file name="gate1-white.html" crc="371551855" seo="true" mt="1555490482805" redirect="true"/>
+    <file name="home-tab-white.html" crc="226504293" seo="true" mt="1555521520541" redirect="true"/>
+    <file name="works.html" crc="118175449" seo="true" mt="1555521636232" redirect="true"/>
+    <file name="artmaster-white.html" crc="101393296" seo="true" mt="1555521500904" redirect="true"/>
+    <file name="showplace-tabwhite.html" crc="3849139283" seo="true" mt="1555522414042" redirect="true"/>
+    <file name="furniture---artwoks.html" crc="474659776" seo="true" mt="1555521754607" redirect="true"/>
+    <file name="woody_white-2.html" crc="3826696449" seo="true" mt="1555522419708" redirect="true"/>
+    <file name="office-tab-white.html" crc="3776018698" seo="true" mt="1555521603274" redirect="true"/>
+    <file name="gate2-black.html" crc="3899629830" seo="true" mt="1555490482944" redirect="true"/>
+    <file name="home-tab2-black.html" crc="3990284168" seo="true" mt="1555490482962" redirect="true"/>
+    <file name="works-(black).html" crc="147117619" seo="true" mt="1555490482980" redirect="true"/>
+    <file name="furniture---artwoks-black.html" crc="4123045813" seo="true" mt="1555521754599" redirect="true"/>
+    <file name="artmaster-black.html" crc="72610245" seo="true" mt="1555490483015" redirect="true"/>
+    <file name="showplace-tab-black.html" crc="3787763287" seo="true" mt="1555522439802" redirect="true"/>
+    <file name="woody_black-2.html" crc="4140938353" seo="true" mt="1555522441726" redirect="true"/>
+    <file name="office-(black).html" crc="72281649" seo="true" mt="1555522448326" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_phone-c0_white_.css" crc="3795687942" ref="phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:phone>office-c0"/>
+      <file name="nomq_preview_master_phone-c0_white_.css" crc="3824530138" ref="phone>works_c-white:phone>furniture-c0:phone>artmaster-description-c0:phone>showplace-desc-white-c0:phone>office-c0"/>
+      <file name="master_phone-c_white_.css" crc="4204307819" ref="phone>home-c(white)"/>
+      <file name="nomq_preview_master_phone-c_white_.css" crc="3824530138" ref="phone>home-c(white)"/>
+      <file name="works_c-white.css" crc="356710365" ref="phone>works_c-white"/>
+      <file name="furniture-c0.css" crc="399600298" ref="phone>furniture-c0"/>
+      <file name="artmaster-description-c0.css" crc="4137013089" ref="phone>artmaster-description-c0"/>
+      <file name="showplace-desc-white-c0.css" crc="459749550" ref="phone>showplace-desc-white-c0"/>
+      <file name="nomq_showplace-desc-white-c0.css" crc="342913438" ref="phone>showplace-desc-white-c0"/>
+      <file name="index.css" crc="488897566" ref="phone>index"/>
+      <file name="home-c_white_.css" crc="128686742" ref="phone>home-c(white)"/>
+      <file name="nomq_home-c_white_.css" crc="3824530138" ref="phone>home-c(white)"/>
+      <file name="office-c0.css" crc="244082706" ref="phone>office-c0"/>
+    </folder>
+    <file name="index.html" crc="47227699" seo="true" mt="1555519118914" redirect="true"/>
+    <file name="home-c(white).html" crc="3982791732" seo="true" mt="1555495390747" redirect="true"/>
+    <file name="office-c0.html" crc="4014530108" seo="true" mt="1555519118902" redirect="true"/>
+    <file name="works_c-white.html" crc="280988062" seo="true" mt="1555519118902" redirect="true"/>
+    <file name="furniture-c0.html" crc="3878787584" seo="true" mt="1555521754595" redirect="true"/>
+    <file name="artmaster-description-c0.html" crc="234583184" seo="true" mt="1555519118902" redirect="true"/>
+    <file name="showplace-desc-white-c0.html" crc="4083519249" seo="true" mt="1555519118902" redirect="true"/>
+  </folder>
+  <file name="gate-white.html" crc="3853054454" seo="true" mt="1555490482464" redirect="true"/>
+  <file name="homepage-white.html" crc="214074326" seo="true" mt="1555490482475" redirect="true"/>
+  <file name="works.html" crc="326402760" seo="true" mt="1555490482490" redirect="true"/>
+  <file name="furniture---artwoks.html" crc="3973224030" seo="true" mt="1555521754603" redirect="true"/>
+  <file name="artmaster.html" crc="102466122" seo="true" mt="1555490482516" redirect="true"/>
+  <file name="showplace.html" crc="515656593" seo="true" mt="1555490482531" redirect="true"/>
+  <file name="woody_white1.html" crc="4105357479" seo="true" mt="1555521754613" redirect="true"/>
+  <file name="woody_neg-1.html" crc="286021021" seo="true" mt="1555522146435" redirect="true"/>
+  <file name="office-white.html" crc="3935119768" seo="true" mt="1555490482573" redirect="true"/>
+  <file name="index.html" crc="4066933033" seo="true" mt="1555519118909" redirect="true"/>
+  <file name="gate-neg.html" crc="25027997" seo="true" mt="1555490482601" redirect="true"/>
+  <file name="homepage-neg.html" crc="337754373" seo="true" mt="1555490482615" redirect="true"/>
+  <file name="works-_neg.html" crc="3968101891" seo="true" mt="1555522488496" redirect="true"/>
+  <file name="furniture_artwoks_neg.html" crc="3901375674" seo="true" mt="1555522146429" redirect="true"/>
+  <file name="artmaster-neg.html" crc="4041563108" seo="true" mt="1555490482657" redirect="true"/>
+  <file name="showplace-neg.html" crc="345600086" seo="true" mt="1555490482672" redirect="true"/>
+  <file name="office_neg.html" crc="3782440450" seo="true" mt="1555522498484" redirect="true"/>
+</manifest>
